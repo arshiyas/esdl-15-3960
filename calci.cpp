@@ -8,4 +8,6 @@ add=a+b;
 sub=a-b;
 div=c/a;
 
-cout<<add<<sub<<div;
+cout<<"Calculation: \n\n";
+
+cout<<"Addition "<<add<<"Subtract "<<sub<<"Division "<<div;
